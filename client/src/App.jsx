@@ -9,7 +9,7 @@ import { getCurrentUser } from './services/api'
 import { useDispatch, useSelector } from 'react-redux'
 import PaymentSuccess from './pages/PaymentSuccess'
 import Paymentfailed from './pages/Paymentfailed'
-export const serverUrl = "http://localhost:8000"
+export const serverUrl = "https://studyaim-aiserver.onrender.com"
 
 const App = () => {
   const dispatch = useDispatch()
