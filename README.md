@@ -22,13 +22,12 @@ It combines the power of Google's Gemini AI with a modern MERN stack to provide 
 
 ## 🧠 Why This Project Stands Out
 
-This isn't a basic CRUD app or a dummy college project — it's a **real AI SaaS product**.
+This isn't a basic CRUD app or a dummy project — it's a **real AI SaaS product**.
 
 | ❌ Not This | ✅ Actually This |
 |---|---|
 | Basic CRUD project | Real AI-powered SaaS product |
 | Dummy college assignment | Used for actual exams, revision & concept clarity |
-| Toy demo | Final Year Project / Resume-ready / Startup-grade idea |
 
 Built to solve a genuine problem — helping students turn scattered study material into structured, exam-ready content in minutes.
 
@@ -189,6 +188,6 @@ Feel free to check the [issues page](https://github.com/RahulMahawar310/StudyAim
 This project is available for educational and portfolio purposes. Please reach out before using it commercially.
 
 ---
-## Support
+## ⭐ Support
 
 ⭐ **If you find this project useful, consider giving it a star on GitHub!**
