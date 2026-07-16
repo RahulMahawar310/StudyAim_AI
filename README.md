@@ -97,8 +97,7 @@ Built to solve a genuine problem — helping students turn scattered study mater
    ```
 
 4. **Configure environment variables**
-This project requires certain configuration values to run, which are not included in this repository for security reasons.
-
+This project requires certain configuration values to run, which are not included in this repository for security reasons
 Please set up the required configuration before running the app. Reach out to me if you are an authorized collaborator and need access to setup details.
    ```
 
