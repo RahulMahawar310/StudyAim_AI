@@ -78,46 +78,41 @@ Built to solve a genuine problem — helping students turn scattered study mater
 
 ### Installation
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/RahulMahawar310/StudyAim_AI.git
-   cd StudyAim_AI
-   ```
 
-2. **Install backend dependencies**
-   ```bash
-   cd backend
-   npm install
-   ```
-
-3. **Install frontend dependencies**
-   ```bash
-   cd ../frontend
-   npm install
-   ```
-
-4. **Configure environment variables**
-   
-This project requires certain configuration values to run, which are not included in this repository for security reasons
-Please set up the required configuration before running the app. Reach out to me if you are an authorized collaborator and need access to setup details.
-   ```
-
-6. **Run the app**
-
-   Backend:
-   ```bash
-   cd backend
-   npm run dev
-   ```
-
-   Frontend:
-   ```bash
-   cd frontend
-   npm run dev
-   ```
-
-7. Visit `http://localhost:3000` to see the app running locally.
-
+### 1. Clone the repository
+ 
+```
+git clone https://github.com/RahulMahawar310/StudyAim_AI.git
+cd StudyAim_AI
+```
+ 
+### 2. Install backend dependencies
+ 
+```
+cd backend
+npm install
+```
+ 
+### 3. Install frontend dependencies
+ 
+```
+cd ../frontend
+npm install
+```
+ 
+### 4. Run the app
+ 
+**Backend:**
+```
+cd backend
+npm run dev
+```
+ 
+**Frontend:**
+```
+cd frontend
+npm run dev
+```
 ---
 
 ## 💳 Credit & Pricing System
