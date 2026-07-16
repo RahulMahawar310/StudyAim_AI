@@ -97,24 +97,9 @@ Built to solve a genuine problem — helping students turn scattered study mater
    ```
 
 4. **Configure environment variables**
+This project requires certain configuration values to run, which are not included in this repository for security reasons.
 
-   Create a `.env` file in the backend directory:
-   ```env
-   PORT=5000
-   MONGODB_URI=your_mongodb_connection_string
-   JWT_SECRET=your_jwt_secret
-   GEMINI_API_KEY=your_gemini_api_key
-   STRIPE_SECRET_KEY=your_stripe_secret_key
-   STRIPE_WEBHOOK_SECRET=your_stripe_webhook_secret
-   GOOGLE_CLIENT_ID=your_google_oauth_client_id
-   GOOGLE_CLIENT_SECRET=your_google_oauth_client_secret
-   CLIENT_URL=http://localhost:3000
-   ```
-
-   Create a `.env` file in the frontend directory:
-   ```env
-   VITE_API_BASE_URL=http://localhost:5000
-   VITE_STRIPE_PUBLISHABLE_KEY=your_stripe_publishable_key
+Please set up the required configuration before running the app. Reach out to me if you are an authorized collaborator and need access to setup details.
    ```
 
 5. **Run the app**
