@@ -97,11 +97,12 @@ Built to solve a genuine problem — helping students turn scattered study mater
    ```
 
 4. **Configure environment variables**
+   
 This project requires certain configuration values to run, which are not included in this repository for security reasons
 Please set up the required configuration before running the app. Reach out to me if you are an authorized collaborator and need access to setup details.
    ```
 
-5. **Run the app**
+6. **Run the app**
 
    Backend:
    ```bash
@@ -115,7 +116,7 @@ Please set up the required configuration before running the app. Reach out to me
    npm run dev
    ```
 
-6. Visit `http://localhost:3000` to see the app running locally.
+7. Visit `http://localhost:3000` to see the app running locally.
 
 ---
 
