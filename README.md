@@ -5,6 +5,10 @@
 StudyAim AI is a full-stack AI SaaS platform that helps students prepare for exams efficiently by generating AI-powered notes, revision material, diagrams, and important questions.
 It combines the power of Google's Gemini AI with a modern MERN stack to provide a personalized and interactive learning experience.
 
+🔗 **Repository:** [RahulMahawar310/StudyAim_AI](https://github.com/RahulMahawar310/StudyAim_AI)
+🚀 **Live Demo:** [Try the app](https://studyaim-aiclient.onrender.com)
+
+> ⚠️ **Note:** Hosted on Render's free tier. Initial loading may take **30–60 seconds** if the application has been idle.
 ---
 
 ## ✨ Features
